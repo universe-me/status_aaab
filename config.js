@@ -10,10 +10,8 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'm784488775-dd1ad84b209c05f8e185c33e',
-    'm784490063-7b5da437e7f1e0d67613714d',
-    'm784497419-de55aa09902ccb3ab22d548a',
-    'm784496436-71a4bf7b1e3bdf7756be131b',
+    'm787151637-f5ad2cfb713853c3c96cd254',
+    'm787151641-ce1220f2f66155424233b319',
   ],
 
   // 是否显示监测站点的链接
@@ -23,12 +21,16 @@ window.Config = {
   // 虽然免费版说仅保存60天日志，但测试好像API可以获取90天的
   // 不过时间不要设置太长，容易卡，接口请求也容易失败
   CountDays: 60,
-
+  
   // 导航栏菜单
   Navi: [
     {
-      text: 'Aaab.online',
-      url: 'https://aaab.online/'
+      text: 'Homepage',
+      url: 'https://status.org.cn/'
+    },
+    {
+      text: 'GitHub',
+      url: 'https://github.com/yb/uptime-status'
     }
   ]
 };
