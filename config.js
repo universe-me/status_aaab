@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Aaab.online 服务状态',
+  SiteName: 'Aaab.online 服务状态监控',
 
   // 站点链接
   SiteUrl: '/',
