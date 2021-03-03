@@ -31,7 +31,7 @@ window.Config = {
   Navi: [
     {
       text: 'Aaab.online',
-      url: 'https://aaab.online/'
+      url: 'https://www.aaab.online/'
     },
     {
       text: '英文码头',
